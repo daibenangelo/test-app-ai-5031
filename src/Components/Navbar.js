@@ -24,21 +24,6 @@ class Navbar extends Component {
                 </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="/about">
-                  About
-                </a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="/anim">
-                  Anim
-                </a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="/counter">
-                  Counter
-                </a>
-              </li>
-              <li class="nav-item">
                 <a class="nav-link" href="/grades">
                   Grades
                 </a>
@@ -51,16 +36,6 @@ class Navbar extends Component {
               <li class="nav-item">
                 <a class="nav-link" href="/order">
                   Order
-                </a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="/shop">
-                  Shop
-                </a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="/triangle">
-                  Triangle
                 </a>
               </li>
             </ul>
